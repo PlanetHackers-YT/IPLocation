@@ -44,15 +44,15 @@ $ git clone https://github.com/PlanetHackers-YT/IPLocation
 $ ls
 ```
 ```
-$ cd iplocation
+$ cd IPLocation
 ```
 ```
 $ ls
 ```
 ```
-$ python iplocation.py -v (your victim ip here)
+$ python IPLocation.py -v (your victim ip here)
 ```
-ex:- python iplocation.py -v 127.0.0.1
+ex:- python IPLocation.py -v 127.0.0.1
 
 Hurray... you got his location with some more information
 
