@@ -11,7 +11,7 @@ IPLOCATION is a simply python script, which can be used to Ip lookup and to get 
 
 
 
-### Ipdrone is available for
+### IPLocation is available for
 
 * Termux
 
