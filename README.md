@@ -61,6 +61,12 @@ https://www.youtube.com/c/PlanetHackers
 
 ### Chekout our webite 
 https://www.planethackersyt.blogspot.com
+
+### WhatsApp Group 
+https://chat.whatsapp.com/KMqaYDZrTIt0RpUkIU4zzV
+
+### TELEGRAM CHANNEL
+https://t.me/PlanetHackersYT
      
 ### Warning
 
