@@ -50,9 +50,9 @@ $ cd IPLocation
 $ ls
 ```
 ```
-$ python IPLocation.py -v (your victim ip here)
+$ python iplocation.py -v (your victim ip here)
 ```
-ex:- python IPLocation.py -v 127.0.0.1
+ex:- python iplocation.py -v 127.0.0.1
 
 Hurray... you got his location with some more information
 
